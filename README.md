@@ -1,6 +1,6 @@
 # NanoProcessor
 
-4 bit arithmetic unit capable of completing simple operations on signed integers
+4 bit arithmetic unit capable of completing simple operations on signed integers.
 Made on Vivado simulation using Basys 3 board
 
 ## Components
