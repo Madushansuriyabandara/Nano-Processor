@@ -25,14 +25,16 @@ Made on Vivado simulation using Basys 3 board
 
 Example Assembly program mentioned below
 
-0 –   MOVI R1 3   10 001 000 0011
-1 –   MOVI R2 1   10 010 000 0001
-2 –   NEG R2      01 010 000 0000
-3 –   ADD R7 R1   00 111 001 0000
-4 –   ADD R1 R2   00 001 010 0000
-5 –   JZR R1 7    11 001 000 0111
-6 –   JZR R0 3    11 000 000 0011
-7 –      -        00 000 000 0000
+<ul style="list-style-type:none;">
+<li>0 –   MOVI R1 3   10 001 000 0011</li>
+<li>1 –   MOVI R2 1   10 010 000 0001</li>
+<li>2 –   NEG R2      01 010 000 0000</li>
+<li>3 –   ADD R7 R1   00 111 001 0000</li>
+<li>4 –   ADD R1 R2   00 001 010 0000</li>
+<li>5 –   JZR R1 7    11 001 000 0111</li>
+<li>6 –   JZR R0 3    11 000 000 0011</li>
+<li>7 –      -        00 000 000 0000</li>
+</ul>
 
 For the above code runtime is as below
 
