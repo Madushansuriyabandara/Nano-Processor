@@ -34,6 +34,6 @@ Example Assembly program mentioned below
 <p>6 –   JZR R0 3    11 000 000 0011</p>
 <p>7 –      -        00 000 000 0000</p>
 
-For the above code runtime is as below
+For the above code, runtime is as below
 
 <img src="image.jpg"/>
